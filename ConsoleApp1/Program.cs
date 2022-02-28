@@ -24,7 +24,7 @@ namespace ConsoleApp1
             int ocenka2;
             public Student(int oc1, int oc2, string fio)
             {
-                this.FIO = fio;
+                FIO = fio;
                 ocenka1 = oc1;
                 ocenka2 = oc2;
             }
